@@ -1,0 +1,22 @@
+{
+  "name": "webudvikleren/laravel-commentable",
+  "description": "Easily add comments to any Laravel model",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Webudvikleren\\Commentable\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Webudvikleren\\Commentable\\CommentableServiceProvider"
+      ]
+    }
+  },
+  "require": {
+    "php": "^8.1",
+    "illuminate/support": "^10.0|^11.0"
+  }
+}
