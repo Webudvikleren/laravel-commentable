@@ -24,7 +24,6 @@ composer require webudvikleren/laravel-commentable
 ### Publish the migration (optional)
 ```bash
 php artisan vendor:publish --tag=commentable-config
-php artisan vendor:publish --tag=commentable-migrations
 php artisan migrate
 ```
 
