@@ -13,7 +13,7 @@
 - User tracking (via `user_id`)
 - Publishable migration and config
 - Clean and extensible architecture
-- Compatible with Laravel 10 & 11
+- Compatible with Laravel 10, 11 & 12
 
 ## Installation
 
