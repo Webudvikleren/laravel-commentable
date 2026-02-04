@@ -4,7 +4,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/webudvikleren/laravel-commentable.svg?style=flat-square)](https://packagist.org/packages/webudvikleren/laravel-commentable)
 [![License](https://img.shields.io/github/license/webudvikleren/laravel-commentable.svg?style=flat-square)](https://github.com/webudvikleren/laravel-commentable/blob/main/LICENSE)
 
-**Laravel Commentable** adds a simple way to allow comments on any Eloquent model. It's modern, lightweight, and compatible with Laravel 10 and 11.
+**Laravel Commentable** adds a simple way to allow comments on any Eloquent model. 
 
 ## Features
 
@@ -13,7 +13,6 @@
 - User tracking (via `user_id`)
 - Publishable migration and config
 - Clean and extensible architecture
-- Compatible with Laravel 10, 11 & 12
 
 ## Installation
 
